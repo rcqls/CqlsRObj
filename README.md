@@ -1,4 +1,4 @@
 CqlsRObj
 ========
 
-Ruby-like OOP mechanism
+Ruby-like OOP mechanism for R
